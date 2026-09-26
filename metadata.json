@@ -1,0 +1,6 @@
+{
+  "name": "InnovProcure Maharashtra",
+  "description": "Government innovation-procurement platform enabling outcome-based challenges, startup discovery, transparent expert evaluation, measurable pilots, and scale-up decisions for SIH Problem Statement 26136.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
